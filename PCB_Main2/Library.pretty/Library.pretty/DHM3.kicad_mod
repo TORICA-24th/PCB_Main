@@ -1,0 +1,18 @@
+(footprint "DHM3" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp c7acaa7c-c5d1-4eff-bcdc-c0d43057360b)
+  )
+  (fp_text value "DHM3" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d53712a3-7a3c-430a-b7e8-7bd05996bb24)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c12d6b28-b5f7-4529-96aa-61fb4ff5e252)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask")
+    (clearance 1) (tstamp 59724a4a-2118-4d35-9ed6-a10c6580991b))
+)
