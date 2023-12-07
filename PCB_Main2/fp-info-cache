@@ -1,11 +1,4 @@
-21760840587441221
-AE-BNO055
-AE-BNO055
-
-
-0
-8
-8
+21760840587443376
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51463,13 +51456,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DPS310
-DPS310
-
-
-0
-6
-6
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -54557,13 +54543,6 @@ heatsink
 0
 2
 1
-ICS
-ICS
-
-
-0
-16
-16
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -60843,13 +60822,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-DHM3
-
-
-0
-0
-0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -90411,3 +90383,31 @@ varistor
 0
 2
 2
+XIAO_PCB
+MOUDLE14P-2.54-21X17.8MM
+
+
+0
+14
+14
+XIAO_PCB
+MOUDLE14P-SMD-2.54-21X17.8MM
+
+
+0
+14
+14
+microSD
+microSD_AE-MICRO-SD-DIP
+
+
+0
+12
+12
+raiburarii
+DHM3
+
+
+0
+0
+0
